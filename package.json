@@ -1,0 +1,23 @@
+{
+  "name": "makeup",
+  "version": "0.0.0",
+  "description": "middleware to serve npm-css processed files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/node-makeup.git"
+  },
+  "dependencies": {
+    "npm-css": "git://github.com/shtylman/npm-css#533a25"
+  },
+  "keywords": [
+    "middleware",
+    "css",
+    "require"
+  ],
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT"
+}
