@@ -11,7 +11,7 @@
     "url": "git://github.com/shtylman/node-makeup.git"
   },
   "dependencies": {
-    "npm-css": "git://github.com/shtylman/npm-css#533a25"
+    "npm-css": "0.1.0"
   },
   "keywords": [
     "middleware",
