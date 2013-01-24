@@ -1,6 +1,6 @@
 {
   "name": "makeup",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "middleware to serve npm-css processed files",
   "main": "index.js",
   "scripts": {
