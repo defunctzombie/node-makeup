@@ -7,9 +7,7 @@ module.exports = function(opt) {
 
     return function(req, res, next) {
         res.setHeader('Content-Type', 'text/css');
-
-        var src = npmcss(cssfile);
-        res.end(src);
+        res.end(npmcss(cssfile));
     };
 };
 
